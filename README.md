@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Spencer is learning how to use GitHub today.
